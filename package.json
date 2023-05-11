@@ -1,0 +1,27 @@
+{
+  "name": "real-estate",
+  "version": "1.0.0",
+  "description": "This is a simple real estate app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vitomir2/real-estate.git"
+  },
+  "keywords": [
+    "solidity",
+    "hardhat",
+    "real-estate"
+  ],
+  "author": "VitoCK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vitomir2/real-estate/issues"
+  },
+  "homepage": "https://github.com/Vitomir2/real-estate#readme",
+  "devDependencies": {
+    "hardhat": "^2.14.0"
+  }
+}

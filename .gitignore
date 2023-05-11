@@ -130,5 +130,5 @@ dist
 .pnp.*
 
 # Hardhat
-.artifacts
-.cache
+artifacts
+cache

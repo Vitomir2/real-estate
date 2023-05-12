@@ -1,0 +1,33 @@
+{
+    "name": "Architectural Modern House",
+    "address": "st. 'Shipka' 20, 2140 Tsentar, Botevgrad, Bulgaria",
+    "description": "Beautiful and spare modern home in Botevgrad",
+    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/3.png",
+    "id": "3",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 30
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Meters",
+            "value": 300
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2019
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "Authentic Village House",
+    "address": "'Komkata' str. 2, ZeLLin House, Zelin, 2140 Botevgrad, Bulgaria",
+    "description": "Beautiful authentic co-working space house in the mountainous area",
+    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/2.png",
+    "id": "2",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 15
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Co-working Space"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 4
+        },
+        {
+            "trait_type": "Square Meters",
+            "value": 240
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 1938
+        }
+    ]
+}

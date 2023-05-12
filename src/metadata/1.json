@@ -1,0 +1,33 @@
+{
+    "name": "Luxury Penthouse Sofia Luxury NYC Penthouse",
+    "address": "30, ul. 'Solunska' Str, 1000 Sofia, Bulgaria",
+    "description": "Luxury Penthouse located in the heart of Sofia, the capital of Bulgaria",
+    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/1.png",
+    "id": "1",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Condo"
+        },
+        {
+            "trait_type": "Bedrooms",
+            "value": 2
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 3
+        },
+        {
+            "trait_type": "Square Meters",
+            "value": 210
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2015
+        }
+    ]
+}

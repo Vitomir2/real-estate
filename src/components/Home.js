@@ -71,8 +71,8 @@ const Home = ({ home, provider, account, escrow, togglePop }) => {
     const inspectHandler = async () => {
         const signer = await provider.getSigner()
 
-        //* Update the inspection status by the inspector
-        const transaction = await escrow.connect(signer).updateInspectionStatus(home.id, true)
+        //* Change the inspection status by the inspector
+        const transaction = await escrow.connect(signer).changeInspectionStatus(home.id, true)
         await transaction.wait()
 
         setHasInspected(true)
